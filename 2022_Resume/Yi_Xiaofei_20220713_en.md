@@ -30,6 +30,8 @@ Web front-end: Realize 3ms website front-end in our department, using html, css 
 
 
 
+
+
 Other fields are derived from the research aspect of students' time.
 
 ###### Numerical Algorithms: 
@@ -42,29 +44,7 @@ Model predictive control algorithm in Active power control of wind farm(*<u>Now 
 
 Application of machine vision in UAV power inspection. *<--2019-2020-->*
 
-
-
-**Some key professional courses in undergraduates and master period** :
-
-<u>Circuit principle</u>                         Analog Electronic Technology                   <u>Digital electronic</u>
-
-<u>Signal and system</u>                     Automatic control theory                          Power electronic 
-
-Electromagnetic field                <u>Dielectric Physics</u>                                        Electrical Machinery
-
-Embedded system design    Numerical calculation of electromagnetic    Power system analysis
-
-*(The underlined part is an important part in IC Design, I think)*
-
-**Some Commercial software and opensource software I have used** :
-
-Pspice(Cadence. inc)                Psim                 LTspice                   ansys maxwell                Comsol
-
-Matlab                                        RTDS                
-
 ​       
-
-
 
 
 
